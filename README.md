@@ -18,3 +18,17 @@ Resources:
 - **Unsupervised** : Applied to *unlabeled* data, the machine learning model discovers possible pattern in the data.
 
 
+## 2. [Statistical Learning](https://github.com/amogghrao/introduction_to_statistical_learning/blob/main/Chapter%202%20-%20Statistical%20Learning.ipynb)
+
+<pre>
+                   In essence, statistical learning refers to a set of approaches for estimating f.
+
+</pre>
+
+A set of inputs X are usually available in real life setting, but the output Y cannot be easily obtained. We can predict Y using:
+
+
+The accuracy of Y_hat as a prediction for Y depends on two quantities:
+
+    - Reducible error
+    - Irreducible error
